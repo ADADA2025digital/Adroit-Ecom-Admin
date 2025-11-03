@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "../assets/Styles/Style.css";
+import "../Assets/Styles/Style.css";
 import Profile from "../Assets/Images/profile.png";
 import api from "../config/axiosConfig";
 import { ToastContainer, toast } from "react-toastify";

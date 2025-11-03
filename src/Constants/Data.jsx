@@ -1434,7 +1434,7 @@ export const productData = [
   },
   {
     id: 2,
-    image: "assets/images/pro3/34.jpg",
+    image: "Assets/images/pro3/34.jpg",
     title: "Slim Fit Cotton Shirt",
     price: 500,
     oldPrice: 600,
@@ -1444,7 +1444,7 @@ export const productData = [
   },
   {
     id: 3,
-    image: "assets/images/pro3/34.jpg",
+    image: "Assets/images/pro3/34.jpg",
     title: "Slim Fit Cotton Shirt",
     price: 500,
     oldPrice: 800,
@@ -1456,7 +1456,7 @@ export const productData = [
   },
   {
     id: 4,
-    image: "assets/images/pro3/34.jpg",
+    image: "Assets/images/pro3/34.jpg",
     title: "Slim Fit Cotton Shirt",
     price: 500,
     oldPrice: 650,
